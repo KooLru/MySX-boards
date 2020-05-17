@@ -2,6 +2,10 @@
 
 Mainboard with MYSX connector for MySensors 
 
+## PCB
+![TOP](images/pcb_rev2_top.png) 
+
+![Bottom](images/pcb_rev2_bottom.png)
 
 ## Components
 
