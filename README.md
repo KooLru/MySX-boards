@@ -7,8 +7,6 @@
 
 ## BluePill MCU board
 
-## BluePill MCU board
-
 ## Wiz5500 
 
 
