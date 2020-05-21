@@ -3,7 +3,7 @@
 Mainboard with MYSX connector for MySensors 
 
 ## PCB
-![TOP](Images/pcb_rev2_top.png) ![Bottom](Images/pcb_rev2_bottom.png)
+![TOP](boards/E73-2G4M04S/images/pcb_rev2_top.png) ![Bottom](boards/E73-2G4M04S/images/pcb_rev2_bottom.png)
 
 ## Components
 
