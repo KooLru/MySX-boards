@@ -1,25 +1,16 @@
-# MYSX MAINBOARD E73-2G4M04S
+# MySX-boards
 
-Mainboard with MYSX connector for MySensors 
+## E73-2G4M04S MCU board
+![TOP](boards/E73-2G4M04S/images/pcb_rev2_top.png) ![Bottom](boards/E73-2G4M04S/images/pcb_rev2_bottom.png)
 
-## PCB
-![TOP](Images/pcb_rev2_top.png) ![Bottom](Images/pcb_rev2_bottom.png)
+## ATMega328-RF24 MCU board
 
-## Components
+## BluePill MCU board
 
-**E73-2G4M04S** module | [CDEBYTE](http://ali.pub/2z6fva) | [CDSENET](https://l.kool.ru/1j7gn) | [COJXU](https://l.kool.ru/li1hl)
+## BluePill MCU board
 
-[Pinheader](http://ali.pub/2zeo7o)
+## Wiz5500 
 
-[2x6 PinHeader](http://ali.pub/3063a0 )
-
-[3x6x3.5](https://l.kool.ru/obw9w) switch
-
-L1 0805 SMD 15nH inductor [AliExpress](https://l.kool.ru/m-3i2)
-
-L2 0805 SMD 10uH inductor [AliExpress](https://l.kool.ru/w-op5)
-
-C1 capacitor
 
 ## Donation
 If this project help you, you can give me a cup of coffee | beer | vodka :)
