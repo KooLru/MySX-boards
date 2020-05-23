@@ -1,4 +1,4 @@
-# Blue pill
+# STM32F103C8T6 Blue pill
 
 Some chars about blue pill board
 MySensors Gateway with w5500 | w5100 | Serial adapter
