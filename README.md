@@ -1,13 +1,26 @@
 # MySX-boards
 
-## E73-2G4M04S MCU board
+## MCU Board
+### E73-2G4M04S 
 ![TOP](boards/E73-2G4M04S/images/pcb_rev2_top.png) ![Bottom](boards/E73-2G4M04S/images/pcb_rev2_bottom.png)
 
-## ATMega328-RF24 MCU board
+### ATMega328-RF24
 
-## BluePill MCU board
+### BluePill 
 
-## Wiz5500 
+![TOP](boards/BluePill/images/pcb_rev1_top.png) 
+
+[Link](boards/BluePill)
+
+## Other
+### Wiz5500 
+
+### Wiz5100 
+
+
+### Serial
+
+CP1251 or FTDI 
 
 
 ## Donation
