@@ -1,6 +1,18 @@
 # STM32F103C8T6 Blue pill
 
 Some chars about blue pill board
+
+SPI1 for NRF24, SPI2 for W5100|W5500 module
+
+[Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) 
+
+Sketch file
+
+[MySensors STM32 Cores / branch stm32_cores](https://github.com/KooLru/MySensors/tree/stm32_cores)
+
+[MySensors STM32 Cores / branch spi2](https://github.com/KooLru/Ethernet/tree/spi2)
+
+
 MySensors Gateway with w5500 | w5100 | Serial adapter
 
 ## PCB
@@ -37,6 +49,8 @@ L1-L3
 
 ## Useful links
 [Set up STM32 "blue pill" for Arduino IDE](https://www.onetransistor.eu/2017/11/stm32-bluepill-arduino-ide.html)
+
+[Program "blue pill" with STM32 Cores in Arduino IDE](https://www.onetransistor.eu/2020/01/stm32-bluepill-arduino-support.html)
 
 [How to burn STMduino bootloder (RUS)](https://elchupanibrei.livejournal.com/30157.html)
 
