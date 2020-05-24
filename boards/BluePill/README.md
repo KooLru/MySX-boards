@@ -23,7 +23,7 @@ MySensors Gateway with w5500 | w5100 | Serial adapter
 
 ## Components
 
-**STM32F103C8T6 "Blue pill" board**  [Aliexpress](https://l.kool.ru/1j7gn)
+**STM32F103C8T6 "Blue pill" board**  [Aliexpress](https://l.kool.ru/stm32)
 
 The Chinese development boards are available from webshops like Ebay, AliExpress, Wish, Taobao, and many more. 
 
