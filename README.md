@@ -23,7 +23,7 @@ The Chinese development boards are available from webshops like Ebay, AliExpress
 
 ## Other
 ### W5500 
-![TOP](boards/W5500/images/pcb_rev0_top.png) ![Bottom](boards/W5500/images/pcb_rev0_bottom.png)
+![TOP](boards/W5500/images/pcb_rev1_top.png) 
 
 [Link](boards/W5500)
 
@@ -39,7 +39,7 @@ CP1251 or FTDI
 
 ### Prototype board
 
-![TOP](boards/W5500/images/pcb_rev0_top.png) ![Bottom](boards/W5500/images/pcb_rev0_bottom.png)
+![TOP](boards/Prototype/images/top.png) 
 
 [Link](boards/W5500)
 
