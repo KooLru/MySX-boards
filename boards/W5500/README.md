@@ -7,6 +7,8 @@ The [W5500 chip](https://www.wiznet.io/product-item/w5500/) is a Hardwired TCP/I
 ## PCB
 ![TOP](images/pcb_rev1_top.png) ![Bottom](images/pcb_rev1_bottom.png)
 
+[Actial GERBER files](pcb/w5500_2019-06-23.zip) 
+
 ## Components
 
 **W5500 module** [aliexpress](https://l.kool.ru/w5500) or [find yourself](https://l.kool.ru/latkr)
@@ -21,7 +23,7 @@ The [W5500 chip](https://www.wiznet.io/product-item/w5500/) is a Hardwired TCP/I
 
 [2x10 male](https://l.kool.ru/hdrm2r) 
 
-[2x4 male](https://l.kool.ru/hdrm2r) 
+[2x5 male](https://l.kool.ru/hdrm2r) 
 
 ## Useful links
 [Chip description](https://www.wiznet.io/product-item/w5500/)
