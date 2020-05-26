@@ -9,7 +9,8 @@ The [W5500 chip](https://www.wiznet.io/product-item/w5500/) is a Hardwired TCP/I
 
 ## Components
 
-**W5500 module** [aliexpress](http://ali.pub/2z6fva)
+**W5500 module** [aliexpress](https://l.kool.ru/w5500) or [find yourself](https://l.kool.ru/latkr)
+
 ![Bottom](images/W5500_top.png)
 
 **MYSX Pinheader** [2x10 female](https://l.kool.ru/hdrf2r) 
