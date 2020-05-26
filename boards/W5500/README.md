@@ -15,7 +15,7 @@ The [W5500 chip](https://www.wiznet.io/product-item/w5500/) is a Hardwired TCP/I
 
 **MYSX Pinheader** [2x10 female](https://l.kool.ru/hdrf2r) 
 
-**NRF24 Pinheader** [2x4 female](https://l.kool.ru/hdrf2r) 
+**W5500 Pinheader** [2x5 female](https://l.kool.ru/hdrf2r) 
 
 ## Components variants
 
