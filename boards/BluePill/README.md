@@ -55,11 +55,3 @@ L1-L3
 [How to burn STMduino bootloder (RUS)](https://elchupanibrei.livejournal.com/30157.html)
 
 [Pinout source](https://predictabledesigns.com/introduction-stm32-blue-pill-stm32duino/)
-
-
-## Donation
-If this project help you, you can give me a cup of coffee | beer | vodka :)
-
-[![Donate](https://img.shields.io/badge/Donate-Yandex%20Money-blue.svg)](https://money.yandex.ru/to/41001197672478)
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/koolru)
