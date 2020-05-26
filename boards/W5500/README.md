@@ -7,7 +7,7 @@ The [W5500 chip](https://www.wiznet.io/product-item/w5500/) is a Hardwired TCP/I
 ## PCB
 ![TOP](images/pcb_rev1_top.png) ![Bottom](images/pcb_rev1_bottom.png)
 
-[Actial GERBER files](pcb/w5500_2019-06-23.zip) 
+[Actial GERBER files](https://raw.githubusercontent.com/KooLru/MySX-boards/master/boards/W5500/pcb/w5500_2019-06-23.zip) 
 
 ## Components
 
