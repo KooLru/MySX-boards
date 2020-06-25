@@ -19,14 +19,20 @@ Switch up to 4 channels
 - Varistor  VDR-07D471 (S07K300) [aliexpress](https://l.kool.ru/var7d) | [chipdip](https://www.chipdip.ru/product/fnr-07d471-s07k300-470)
 - Fuse 10mm 0.25A [aliexpress](https://l.kool.ru/fuse1s)
 - Caps 
+
 C1 470-1000 uF 10v
+
 C2 0.1uF 1206
 - Resistors 
+
 R1-R4 1K 0603
+
 R5    1K 0603
 
 - LED 0603 [aliexpress](https://l.kool.ru/led0603)
+
 LED1-LED4 yellow or red (or your favorite color) indicate relay state
+
 LED5 green (or your favorite color) indicate power on
 
 - [1x10 pinheader](https://l.kool.ru/hdrf1r)
