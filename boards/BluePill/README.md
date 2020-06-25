@@ -2,7 +2,18 @@
 
 Some chars about blue pill board
 
-SPI1 for NRF24, SPI2 for W5100|W5500 module
+SPI1 for NRF24
+
+SPI2 for W5100|W5500 module (MYSX_SPI)
+
+I2C 2 (MYSX_I2C) SDA PB11  SCL PB10
+
+Before begin call
+
+  Wire.setSDA(MYSX_SDA);
+
+  Wire.setSCL(MYSX_SCL);
+
 
 [Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) 
 
