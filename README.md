@@ -1,5 +1,7 @@
 # MySX-boards
 
+[Library for Arduino IDE](https://github.com/KooLru/MySX-boards-library)
+
 ## MCU Board
 ### E73-2G4M04S 
 ![TOP](boards/E73-2G4M04S/images/pcb_rev2_top.png) 
