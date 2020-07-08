@@ -1,6 +1,8 @@
 # MYSX Relay Board
 Board with relays and MYSX connector
 
+![TOP](images/pcb-rev0-image.jpg) 
+
 ## Introduction
 
 Switch up to 4 channels
@@ -26,10 +28,12 @@ R1-R4 1K 0603
 R5    1K 0603
 
 - LED 0603 [aliexpress](https://l.kool.ru/led0603)
+
 LED1-LED4 yellow or red (or your favorite color) indicate relay state
+
 LED5 green (or your favorite color) indicate power on
 
-- [1x10 pinheader](https://l.kool.ru/hdrf1r)
+- 1x10 pinheader | PBD-20 | DS1023-2x10 [aliexpress](https://l.kool.ru/hdrf1r)
 
 
 ## Making guide
