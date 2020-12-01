@@ -7,9 +7,9 @@ Help develop new boards
 ![TOP](images/top.png) 
 ![Bottom](images/bottom.png)
 
-[Actial GERBER files](pcb/ptoto_rev0_2020-05-20.zip) 
+[Actial GERBER files](pcb/proto_2020-05-04.zip) 
 
-##Samples
+## Samples
 
 Board for checking the correct operation of the MYSX boards
 ![Test board](samples/mysx-test.jpg) 
