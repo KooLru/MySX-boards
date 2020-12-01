@@ -9,6 +9,12 @@ Help develop new boards
 
 [Actial GERBER files](pcb/ptoto_rev0_2020-05-20.zip) 
 
+##Samples
+
+Board for checking the correct operation of the MYSX boards
+![Test board](samples/mysx-test.jpg) 
+
+
 ## Components
 
 **MYSX Pinheader** [PLD20 2x10 male](https://l.kool.ru/pld ) or [PLS20 2x10 male](https://l.kool.ru/pls ) 
