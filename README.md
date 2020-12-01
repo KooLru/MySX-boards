@@ -43,8 +43,7 @@ CP1251 or FTDI
 
 ![TOP](boards/Prototype/images/top.png) 
 
-[Link](boards/W5500)
-
+[Link](boards/Prototype)
 
 
 ## Donation
