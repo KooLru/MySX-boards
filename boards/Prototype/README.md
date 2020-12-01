@@ -13,5 +13,5 @@ Help develop new boards
 
 **MYSX Pinheader** [PLD20 2x10 male](https://l.kool.ru/pld ) or [PLS20 2x10 male](https://l.kool.ru/pls ) 
 
-**S1 switch** [xxxx](https://l.kool.ru/) 
+**S1 Micro Tact Switch** [SMD switch 3*6*3.5](https://l.kool.ru/sw363) 
 
