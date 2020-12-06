@@ -59,6 +59,10 @@ R1-R2
 L1-L3
 
 ## Useful links
+[OpenHardware.io](https://www.openhardware.io/view/793/MySX-STM32-BluePill)
+
+[Assembled on Ebay](https://www.ebay.com/itm/383620630882)
+
 [Set up STM32 "blue pill" for Arduino IDE](https://www.onetransistor.eu/2017/11/stm32-bluepill-arduino-ide.html)
 
 [Program "blue pill" with STM32 Cores in Arduino IDE](https://www.onetransistor.eu/2020/01/stm32-bluepill-arduino-support.html)
@@ -66,3 +70,4 @@ L1-L3
 [How to burn STMduino bootloder (RUS)](https://elchupanibrei.livejournal.com/30157.html)
 
 [Pinout source](https://predictabledesigns.com/introduction-stm32-blue-pill-stm32duino/)
+
