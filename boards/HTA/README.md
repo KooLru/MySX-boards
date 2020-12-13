@@ -7,7 +7,7 @@ Board support many sensors or you can solder HTUxx-like sensor yourself.
 
 ![Bottom](images/pcb_rev0_bottom.png)
 
-Actial GERBER files (coming soon)
+GERBER files (coming soon)
 
 ## Components
 
@@ -37,12 +37,14 @@ Actial GERBER files (coming soon)
 
 ### Solder yourself
 
-SI7021
+[Si7021 10pcs](https://l.kool.ru/l910s)
 or
 ...
 
 C1 2012 capacitor 0.1 uF
+
 R1 0603 10K
+
 R2 0603 10K
 
 
