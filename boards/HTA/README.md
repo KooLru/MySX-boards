@@ -4,6 +4,7 @@ Board support many sensors or you can solder HTUxx-like sensor yourself.
 
 ## PCB
 ![TOP](images/pcb_rev0_top.png)
+
 ![Bottom](images/pcb_rev0_bottom.png)
 
 Actial GERBER files (coming soon)
@@ -14,9 +15,25 @@ Actial GERBER files (coming soon)
 
 ### J1 sensor
 
+![J1 sensor](images/j1-SHT20.png)
+
+[HDC1080 Si7021 SHT20](https://l.kool.ru/dcnop) 
+
+
 ### J2 sensor
 
+[HTU21D ](https://l.kool.ru/0d2h4)
+
 ### J3 sensor
+![J3 sensor](images/j3-si7021.png)
+
+[Si7021](https://l.kool.ru/65yn8) 
+
+[Si7021](https://l.kool.ru/g4b6w)
+
+[Si7021 10pcs](https://l.kool.ru/fosrk)
+
+
 
 ### Solder yourself
 
