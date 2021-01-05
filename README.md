@@ -43,6 +43,17 @@ Board support many I2C sensors or you can solder HTUxx-like sensor yourself.
 
 Coming soon ...
 
+## Power boards
+
+### 18650 
+
+Board with charger based on TP4056 and 3.3 volt LDO. 2x MYSX connectors.
+
+![TOP](boards/PWR-18650/images/pcb_rev0_top.png) ![Bottom](boards/PWR-18650/images/pcb_rev0_bottom.png)
+
+[Link](boards/PWR-18650)
+
+
 ## Other
 
 ### W5500 
