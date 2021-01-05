@@ -3,9 +3,8 @@
 Board support many sensors or you can solder HTUxx-like sensor yourself.
 
 ## PCB
-![TOP](images/pcb_rev0_top.png)
 
-![Bottom](images/pcb_rev0_bottom.png)
+![TOP](images/pcb_rev0_top.png) ![Bottom](images/pcb_rev0_bottom.png)
 
 GERBER files (coming soon)
 
