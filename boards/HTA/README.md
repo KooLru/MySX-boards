@@ -1,4 +1,4 @@
-## Humidity & Temperature sensor board
+## I2C sensor board
 
 Board support many sensors or you can solder HTUxx-like sensor yourself.
 
