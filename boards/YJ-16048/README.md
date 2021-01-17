@@ -7,7 +7,9 @@ Mainboard with MYSX connector for MySensors
 
 ## Components
 
-**YJ-16048** module | [HolyIoT aliexpress store](http://ali.pub/2z6fva) | [Aliexpress](https://l.kool.ru/1j7gn) 
+
+
+**YJ-16048** module | [HolyIoT aliexpress store](http://ali.pub/2z6fva) | [Aliexpress](https://l.kool.ru/lenyo) 
 
 **MYSX Pinheader** 
 [2x10 male](http://ali.pub/3063a0)  or [2x10 female](http://ali.pub/3063a0) or [2x10 SMT female](http://ali.pub/3063a0) or solder it together
