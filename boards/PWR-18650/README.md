@@ -41,3 +41,26 @@ R6   |330k                |0603||
 R7   |1M                  |0603||
 ||MYSX Expander
 X1,X2   |2x10                |PLD-20|**MYSX 2.5 Pinheader** [2x10 male](http://ali.pub/3063a0 ) 
+
+## Usage
+
+### Charge current.
+
+The charge current can be set by the R3 resistor
+|R3 (k)|IBAT (mA)|
+|----|----|
+|10|130|
+|5|250|
+|4|300|
+|3|400|
+|2|580|
+|1.66|690|
+|1.5|780
+|1.33|900|
+|1.2|1000|
+
+By default soldered 1.6KOhm for 800 mA charge current.
+
+### Battery voltage measurement
+
+Battery voltage can be measured via A3 ot A4 analog pin, setted by J2 solder jumper
