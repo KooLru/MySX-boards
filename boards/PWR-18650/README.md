@@ -7,13 +7,13 @@ Board with charger and 3.3v LDO
 
 ![Bottom](images/pcb_rev0_bottom.png)
 
-GERBER files (coming soon)
+GERBER files ![Revision 0](release/18650_r0_2020-12-14.zip)
 
 ## Components
 
-|Part|Value|Package|Link|
+|Part|Value|Package/metric)|Link|
 |----|----|:----:|----|
-BT2  |Battery holder||
+BT2  |Battery holder||[AEX 10 pcs](https://l.kool.ru/0i33r) 
 ||Charger|
 C3   |10u                 |1206/3216||
 C4   |1u                  |0603/1608||
@@ -26,7 +26,7 @@ LD2  |green               |0805|
 R1,R2,R4|1k               |0603||
 R3   |1.5k                |0603||
 R5   |100                 |0603||
-J5   |USB-B-MICRO-SMD|           
+J5   |USB-B-MICRO-SMD     ||[AEX 10 pcs](https://l.kool.ru/rl9vq) 
 ||LDO MCP1703||
 C1,C2|1u                  |1206/3216|
 IC1  |MCP1703T-3302E/CB   |SOT-23|[TE](https://www.terraelectronica.ru/product/358293) 
@@ -40,6 +40,3 @@ R6   |330k                |0603||
 R7   |1M                  |0603||
 ||MYSX Expander
 X1,X2   |2x10                |PLD-20|**MYSX 2.5 Pinheader** [2x10 male](http://ali.pub/3063a0 ) 
-
-
-DIO5158 
