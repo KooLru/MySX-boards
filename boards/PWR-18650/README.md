@@ -8,7 +8,7 @@ Board with charger and 3.3v LDO
 ![Bottom](images/pcb_rev0_bottom.png)
 
 ## GERBER files 
-[Rev 0](release/18650_r0_2020-12-14.zip)
+[Rev 0](https://raw.githubusercontent.com/KooLru/MySX-boards/master/boards/PWR-18650/release/18650_r1_2021-01-08.zip)
 
 ## Components
 
