@@ -1,6 +1,6 @@
 ## Power board 18650
 
-Board with charger and 3.3v LDO 
+MySX Power Board 18650 for powering MySensors nodes with charger (TP4056), discharge protection (DW01) and 3.3 LDO regulator MCP1703
 
 ## PCB
 ![TOP](images/pcb_rev0_top.png)
