@@ -7,11 +7,12 @@ Board with charger and 3.3v LDO
 
 ![Bottom](images/pcb_rev0_bottom.png)
 
-GERBER files ![Revision 0](release/18650_r0_2020-12-14.zip)
+## GERBER files 
+[Rev 0](release/18650_r0_2020-12-14.zip)
 
 ## Components
 
-|Part|Value|Package/metric)|Link|
+|Part|Value|Package/metric|Link|
 |----|----|:----:|----|
 BT2  |Battery holder||[AEX 10 pcs](https://l.kool.ru/0i33r) 
 ||Charger|
