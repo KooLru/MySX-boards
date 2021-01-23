@@ -2,10 +2,11 @@
 
 MySX Power Board 18650 for powering MySensors nodes with charger (TP4056), discharge protection (DW01) and 3.3 LDO regulator MCP1703
 
+![Board image](images/asembled_top.jpg)
 ## PCB
-![TOP](images/pcb_rev0_top.png)
+![TOP](images/pcb_rev0_top_render.png)
 
-![Bottom](images/pcb_rev0_bottom.png)
+![Bottom](images/pcb_rev0_bottom_render.png)
 
 ## GERBER files 
 [Rev 0](https://raw.githubusercontent.com/KooLru/MySX-boards/master/boards/PWR-18650/release/18650_r1_2021-01-08.zip)
@@ -59,8 +60,14 @@ The charge current can be set by the R3 resistor
 |1.33|900|
 |1.2|1000|
 
-By default soldered 1.6KOhm for 800 mA charge current.
+By default soldered 1.6 KOhm for 800 mA charge current.
 
 ### Battery voltage measurement
 
-Battery voltage can be measured via A3 ot A4 analog pin, setted by J2 solder jumper
+Battery voltage can be measured via A3 ot A4 analog pin, setted by J2 solder jumper.
+
+## Stores
+
+[tindie](https://www.tindie.com/products/koolru/mysx-power-board-18650/) 
+
+[EBay](https://www.tindie.com/products/koolru/mysx-power-board-18650/) 
