@@ -70,4 +70,4 @@ Battery voltage can be measured via A3 ot A4 analog pin, setted by J2 solder jum
 
 [tindie](https://www.tindie.com/products/koolru/mysx-power-board-18650/) 
 
-[EBay](https://www.tindie.com/products/koolru/mysx-power-board-18650/) 
+[EBay](https://www.ebay.com/itm/383915627392) 
