@@ -1,11 +1,11 @@
 # MYSX MCU PTR-5605
 
 Module pinout 
-[TOP](images/module_pinout.png)
+![Pinout](images/module_pinout.png)
 
 Module schema
 
-[TOP](images/module_schema.png)
+![schema](images/module_schema.png)
 
 Mainboard with MYSX connector for MySensors 
 
