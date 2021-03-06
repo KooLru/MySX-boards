@@ -3,7 +3,7 @@
 Mainboard with MYSX connector for MySensors 
 
 ## PCB
-![TOP](images/pcb_rev0_top.png) ![Bottom](images/pcb_rev0_bottom.png)
+![TOP](images/pcb_rev4_top.png) ![Bottom](images/pcb_rev4_bottom.png)
 
 ## Components
 
@@ -23,11 +23,11 @@ X1   |2x10                 |PLD-20 SMT|[2x10 female SMT AEX 10 pcs](https://l.ko
 
 ## Module pinout 
 
-![Pinout](images/module_pinout.png)
+![Pinout](docs/module_pinout.jpg)
 
 ## Module schema
 
-![schema](images/module_schema.png)
+![schema](docs/module_schema.jpg)
 
 
 
