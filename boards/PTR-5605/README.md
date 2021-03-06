@@ -1,13 +1,5 @@
 # MYSX MCU PTR-5605
 
-Module pinout 
-
-![Pinout](images/module_pinout.png)
-
-Module schema
-
-![schema](images/module_schema.png)
-
 Mainboard with MYSX connector for MySensors 
 
 ## PCB
@@ -28,3 +20,15 @@ HL2|Red|0805||
 S1, S2|3x4mm switch|3x4mm|[100 pcs AEX](https://l.kool.ru/9b1x3)| 
 ||MYSX Expander
 X1   |2x8                 |PLD-16 SMT|[2x8 female SMT AEX 10 pcs](https://l.kool.ru/v67cs) 
+
+
+Module pinout 
+
+![Pinout](images/module_pinout.png)
+
+Module schema
+
+![schema](images/module_schema.png)
+
+
+
