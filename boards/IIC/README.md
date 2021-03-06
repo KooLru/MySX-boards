@@ -46,6 +46,6 @@ R1 0603 10K
 
 R2 0603 10K
 
+### Stores
 
-
-
+[tindie](https://www.tindie.com/products/koolru/mysx-i2c-board/)
