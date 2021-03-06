@@ -9,7 +9,7 @@ Mainboard with MYSX connector for MySensors
 
 |Part|Value|Package/metric|Link|
 |----|----|:----:|----|
-M1|YJ-16048||[HolyIoT aliexpress store](http://ali.pub/2z6fva) | [Aliexpress](https://l.kool.ru/lenyo) 
+M1|YJ-16048||[HolyIoT store](http://ali.pub/2z6fva) * [DUOWEISI Module Store](https://l.kool.ru/lenyo) 
 C1|10 uF|xxxx/3216||
 ||Indication||
 R1,R2,R3|104|0603|10 KOhm
