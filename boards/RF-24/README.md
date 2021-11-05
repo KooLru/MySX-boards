@@ -10,14 +10,13 @@ Radio NRF24 board with MYSX connector for MySensors
 |Part|Value|Package/metric|Link|
 |----|----|:----:|----|
 ||M1 radio module NRF24L01P 2.4GHz||
-|M1|E01-ML01IPX|200m	SMD	12*19	IPEX|
-|M1|E01-ML01S|100m	SMD	12*19	PCB|
-|M1|E01-ML01SP2|20dBm	1.8km	SMD	12.8*25	PCB/IPEX|
-|M1|E01-ML01SP4|20dBm	2km	SMD	12.8*25	IPEX|
-
-C1,C2|0.1 uF|xxxx/3216||
+|M1|E01-ML01IPX|SMD	12*19|200m		IPEX|
+|M1|E01-ML01S|SMD	12*19|100m		PCB|
+|M1|E01-ML01SP2|SMD	12.8*25|20dBm	1.8km	PCB/IPEX|
+|M1|E01-ML01SP4|SMD	12.8*25|20dBm	2km		IPEX|
+|C1,C2|0.1 uF|xxxx/3216||
 ||Indication||
-R1,R2,R3|104|0603|470 Ohm
+|R1,R2,R3|104|0603|470 Ohm
 HL1|Yellow|0805||
 HL2|Green|0805||
 HL2|Red|0805||
